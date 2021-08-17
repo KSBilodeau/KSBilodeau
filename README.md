@@ -12,7 +12,7 @@ I love making game engines and looking under the hood!  Currently, my attention 
 
 ### Experience:
 
-I have been diving deeper and deeper into the world of programming since the age of six.  Today, I am a proud member of the National Technology Students Association, and a one time first place winner in Coding and second place winner in Video Game Design (COVID interfered with about two years of competitions unfortunately).  I also am learning about the discord API and am currently designing a bot myself!
+I have been diving deeper and deeper into the world of programming since the age of six.  Today, I am a proud member of the National Technology Students Association, and a one time first place winner in Coding and second place winner in Video Game Design (COVID interfered with about two years of competitions unfortunately).  I also am learning about the discord API and am currently designing a bot, myself!
 
 ### Looking for Work:
 
