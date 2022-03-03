@@ -26,8 +26,8 @@ You can contact me either through discord at Ardente#9448 or through my work ema
 
 ### Overall Statistics:
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KangarooCoder&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KSBilodeau&show_icons=true)
 
 ### Top Languages: 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KangarooCoder&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KSBilodeau&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
