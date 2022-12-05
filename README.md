@@ -4,7 +4,7 @@
 
 ### Pronouns:
 
-He/Him/His and They/Them/Theirs
+They/He
  
 ### Interests:
 
